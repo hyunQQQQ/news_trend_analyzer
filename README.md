@@ -6,27 +6,27 @@ FastAPI 기반 백엔드 서비스로 네이버 뉴스의 최신 기사를 실�
 
 기능을 제공합니다.
 
-## 🚀 사용법
+## 사용법
 
-### 1️⃣ 설치
+### 1. 설치
 ```bash
 git clone https://github.com/your-username/news-rag-backend.git
 cd news-rag-backend
 pip install -r requirements.txt
 ```
 
-### 2️⃣ OpenAI API 키 설정
+### 2. OpenAI API 키 설정
 `.env` 파일 생성
 ```
 OPENAI_API_KEY=your-key-here
 ```
 
-### 3️⃣ 서버 실행
+### 3. 서버 실행
 ```bash
 bash run.sh
 ```
 
-## 🏗️ API Endpoints
+## API Endpoints
 
 | Method | Endpoint | 설명 |
 |:-|:-|:-|
