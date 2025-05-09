@@ -1,4 +1,4 @@
-# 📰 News RAG Backend
+# News RAG Backend
 
 FastAPI 기반 백엔드 서비스로 네이버 뉴스의 최신 기사를 실시간 수집하여
 - 키워드 빈도 분석
